@@ -1,0 +1,42 @@
+.row .col h2 {
+  border-bottom: 1px #000 solid;
+  padding-bottom: .5em;
+  margin-bottom: .5em;
+}
+
+.row {
+  margin-top: -2em;
+  padding-top: 4em;
+}
+
+.tag {
+    color: rgb(60, 78, 80);
+    padding: 0.3em;
+    border-bottom: solid 1px #ADD3DD;
+    margin: 0 .2em;
+
+   -webkit-transition: 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out;
+	-o-transition: 0.3s ease-in-out;
+	transition: 0.3s ease-in-out;
+}
+
+.tag:hover {
+    color: white;
+    background-color: rgb(119, 155, 171);
+}
+div.features .info {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 16px/24px;
+}
+
+ul.social-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.social-links li {
+  float: left;
+  margin-left: 1em;
+}
